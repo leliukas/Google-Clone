@@ -19,3 +19,41 @@ img {
     padding-left: auto;
     width: 16rem;
 }
+
+#underbox {
+    display: flex;
+    justify-content: space-around;
+    margin: 0 3rem;
+    padding-top: 0.2rem;
+    height: 5rem;
+}
+
+#underbox .under1 {
+    background: #7EE5DA;
+    width: 36%;
+    text-align: center;
+
+}
+
+#underbox .under2 {
+    background: #70CCC2;
+    font-size: smaller;
+    width: 20%;
+    text-align: center;
+}
+
+#underbox .under3 {
+    background: #62B3AA;
+    font-size: smaller;
+    width: 43%;
+    text-align: center;
+}
+
+#underbox div ul li {
+    list-style-type: none;
+}
+
+#footer {
+    text-align: center;
+    font-size: 0.8rem;
+}
