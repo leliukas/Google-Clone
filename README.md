@@ -12,3 +12,5 @@ I used
 So my webpage is not pixel-perfect but I think it's identical.
 
 - I created colors by Colorzilla extension's color picker which is a tool tells you what color it is when you point the pixel via your cursor.(Google Chrome)
+
+My live page: https://leliukas.github.io/Google-Clone/
