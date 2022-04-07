@@ -1,0 +1,21 @@
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#searchbox {
+    background: #EEEEEE;
+    text-align: center;
+    margin: 0 3rem;
+}
+
+#searchbox p {
+    margin-bottom: 0;
+}
+
+#sbox {
+    margin: 0;
+    padding-left: auto;
+    width: 16rem;
+}
